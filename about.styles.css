@@ -1,0 +1,39 @@
+.cover_container {
+padding-top: 8em;
+
+}
+
+.card_container {
+display: flex;
+align-content: space-between;
+margin-bottom: 15em;
+}
+
+.card_img {
+  width: 30%;
+  
+}
+
+.card_p {
+  margin-left: 0.5em;
+  margin-top: 1.5em;
+}
+
+@media(min-width: 568px) {
+.card_container {
+  flex-direction: column;
+  justify-items: center;
+}
+
+.card_img {
+  margin-top: 2em;
+  margin-left: 11em;
+  margin-bottom: 2em;
+}
+
+}
+
+.container_footer {
+
+  padding: 0;
+}

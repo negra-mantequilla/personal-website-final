@@ -1,0 +1,25 @@
+@media(min-width: 768px) {
+.news-input {
+
+  width: 50%;
+}
+
+}
+
+@media(min-width: 468px){
+  .c-break {
+   
+    margin-bottom: 3rem;
+
+  }
+
+
+}
+
+@media(min-width: 568px) {
+.footer-items {
+margin-bottom: 4rem;
+
+}
+
+}
